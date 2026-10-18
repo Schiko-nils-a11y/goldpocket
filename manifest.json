@@ -1,0 +1,1 @@
+{"name": "GoldPocket", "short_name": "GoldPocket", "start_url": "/goldpocket/", "scope": "/goldpocket/", "display": "standalone", "background_color": "#0B0E14", "theme_color": "#0B0E14", "icons": [{"src": "/goldpocket/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/goldpocket/icon-512.png", "sizes": "512x512", "type": "image/png"}]}
